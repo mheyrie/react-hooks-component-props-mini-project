@@ -1,5 +1,5 @@
 import React from 'react'
-import logo from '../assets/logo';
+
 
 function About({about, image="https://via.placeholder.com/215"}) {
   return (

@@ -5,8 +5,8 @@ import React from 'react'
   return (
     <div>
         <header>
-        <h1>{props.name}</h1>
-            </header>
+          <h1>{props.name}</h1>
+        </header>
     </div>
   )
 }
